@@ -8,3 +8,5 @@ document.addEventListener("DOMContentLoaded", function() {
         imageIndex = (imageIndex + 1) % imageArray.length;
     }, 3000);
 });
+
+
